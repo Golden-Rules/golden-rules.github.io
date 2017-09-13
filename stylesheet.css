@@ -11,4 +11,7 @@ header {
   border-bottom: 2px solid white;
 }
 
+div {
+  display: flex;
+}
 
