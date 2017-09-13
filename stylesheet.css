@@ -1,1 +1,14 @@
+html {
+  background-color: black;
+  color: white;
+  font-family: cursive;
+}
+
+header {
+  height: 50px;
+  text-size: 50px;
+  text-align: center;
+  border-bottom: 2px solid white;
+}
+
 
