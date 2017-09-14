@@ -6,4 +6,4 @@ function like() {
  else {
   alert("Very Sad");
  }
-  
+}  
