@@ -17,42 +17,51 @@ div {
   margin-bottom: 50px;
 }
 
+div h1 {
+  width: 500px;
+  background-color: black;
+  border: 2px solid white;
+}
+
 #div1 {
   background-image: url("https://c1.staticflickr.com/3/2753/4257664654_9c9589aee8.jpg");
 }
 
 #div2 {
-  background-image: url("");
+  background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjelNyS9KTWAhUH8IMKHX5uCdEQjRwIBw&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fhubble-heritage%2F3271274471&psig=AFQjCNGZt6aWtN3KMPOmdnpkWUJxrMp4vg&ust=1505486430036716");
 }
 
 #div3 {
-  background-image: url("");
+  background-image: url("https://www.flickr.com/photos/gsfc/4540790225");
 }
 
 #div4 {
-  background-image: url("");
+  background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj-i_K_96TWAhVn74MKHVxcDZ8QjRwIBw&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fghost_of_kuji%2F395419629&psig=AFQjCNGZt6aWtN3KMPOmdnpkWUJxrMp4vg&ust=1505486430036716");
 }
 
 #div5 {
-  background-image: url("");
+  background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiZpfqN-KTWAhUk54MKHULnBiUQjRwIBw&url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fspaceimages%2Fdetails.php%3Fid%3DPIA18184&psig=AFQjCNGcwBnxI7ggz0w6MAdGwrLlTwwVhg&ust=1505487486801400");
 }
 
 #div6 {
-  background-image: url("");
+  background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjl_e62-KTWAhUS84MKHXTnDsEQjRwIBw&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APhoebe.png&psig=AFQjCNGgrN4uGoMfDkPrDrIehq-_Zsqg-g&ust=1505487571361132");
 }
 
 #div7 {
-  background-image: url("");
+  background-image: url("https://commons.wikimedia.org/wiki/File:Black_hole_Cygnus_X-1.jpg\");
+    /*
+    Change if no work
+    */
 }
 
 #div8 {
-  background-image: url("");
+  background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwis0ezZ-aTWAhXij1QKHWIGAO4QjRwIBw&url=https%3A%2F%2Fwww.nasa.gov%2Fmission_pages%2Fstereo%2Fmultimedia%2Fdeploy.html&psig=AFQjCNEnDYkzh8s7WMsmyENKXoYaF5YJOA&ust=1505487901499800");
 }
 
 #div9 {
-  background-image: url("");
+  background-image: url("https://www.flickr.com/photos/nasablueshift/9682834592");
 }
 
 #div10 {
-  background-image: url("");
+  background-image: url("https://www.flickr.com/photos/derricksphotos/231849376");
 }
