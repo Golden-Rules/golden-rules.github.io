@@ -26,6 +26,7 @@ div h1 {
   width: 500px;
   background-color: black;
   border: 2px solid white;
+  text-align: center;
 }
 
 #div1 {
