@@ -4,10 +4,6 @@ html {
   font-family: cursive;
 }
 
-img {
-  border: 2px solid white;
-}
-
 header {
   text-size: 50px;
   text-align: center;
@@ -17,6 +13,7 @@ header {
 div {
   height: 500px;
   width: 500px;
+  border: 2px solid white;
 }
 
 #div1 {
