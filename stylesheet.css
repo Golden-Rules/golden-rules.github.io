@@ -20,6 +20,8 @@ div {
   border: 2px solid white;
   margin-bottom: 50px;
   40px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 div h1 {
