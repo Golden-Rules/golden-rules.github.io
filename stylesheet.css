@@ -10,42 +10,47 @@ header {
   border-bottom: 2px solid white;
 }
 
+div {
+  height: 500px;
+  width: 500px;
+}
+
 #div1 {
-  
+  background-image: url("");
 }
 
 #div2 {
-  
+  background-image: url("");
 }
 
 #div3 {
-  
+  background-image: url("");
 }
 
 #div4 {
-  
+  background-image: url("");
 }
 
 #div5 {
-  
+  background-image: url("");
 }
 
 #div6 {
-  
+  background-image: url("");
 }
 
 #div7 {
-  
+  background-image: url("");
 }
 
 #div8 {
-  
+  background-image: url("");
 }
 
 #div9 {
-  
+  background-image: url("");
 }
 
 #div10 {
-  
+  background-image: url("");
 }
