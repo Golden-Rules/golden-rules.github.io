@@ -3,7 +3,9 @@ function like() {
  if (x == 'yes') {
   alert("Yay!");
  }
- else {
+ else if (x == "no") {
   alert("Very Sad");
  }
+ else {
+  alert("Invalid INPUT!");
 }  
