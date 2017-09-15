@@ -8,4 +8,5 @@ function like() {
  }
  else {
   alert("Invalid INPUT!");
-}  
+ }  
+}
