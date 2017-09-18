@@ -60,6 +60,24 @@
       <h1 id="club">Join the NAMS<br>Web Design Club</h1>
       <h3>Simple Snake Game</h3>
 <canvas id="stage" height="400" width="520"></canvas>
+      <h3>My Google Maps Demo</h3>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwndRvIGbDxYRWGEGBNbFArhhY36viyOs&callback=initMap">
+    </script>
     </footer>
   </body>
 </html>
