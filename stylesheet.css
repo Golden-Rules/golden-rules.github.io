@@ -4,6 +4,10 @@ html {
   font-family: cursive;
 }
 
+canvas {
+  border: 2px solid rgb(151, 149, 149);
+}
+
 #club {
   font-size: 100px;
   border: 2px solid white;
